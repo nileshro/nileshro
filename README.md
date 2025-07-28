@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @nileshro
 - 👀 I’m interested in web development, app devlopment, artificial intelligence & data science..
-- 🌱 I’m currently learning ...HTML CSS. JS, c++, etc
+- 🌱 I’m currently learning ...  JAVA, SQL, Python, HTML. CSS, JS, React etc
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nileshrokade266@gmail.com...
-- 😄 Pronouns: rocky
+- 📫 How to reach me nileshrokade266@gmail.com.
 - ⚡ Fun fact: change my mood if like to do change
 
 <!---
